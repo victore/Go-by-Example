@@ -1,0 +1,1 @@
+http://slides.com/gsklee/angular-crash-course-1-introduction-to-angularjs
