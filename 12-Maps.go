@@ -14,6 +14,7 @@ func main() {
 
   fmt.Println("map:", m)
 
+  //Get a value for a key with name[key].
   v1 := m["k1"]
   fmt.Println("v1: ", v1)
 
