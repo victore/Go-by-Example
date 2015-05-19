@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// A function that takes two ints and returns their sum as an int.
 func plus(a int, b int) int {
 	
 
